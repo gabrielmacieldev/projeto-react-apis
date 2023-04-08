@@ -40,7 +40,7 @@
    
 # Linkedin
 
-https://www.linkedin.com/in/gabriel-maciel-74a1391a2/
+[Linkedin]https://www.linkedin.com/in/gabrielmacieldev/
 # Documentação
 
 [Documentação](https://github.com/labenuexercicios/projeto-react-apis#readme)
@@ -51,4 +51,4 @@ https://www.linkedin.com/in/gabriel-maciel-74a1391a2/
 
 # Link do deploy
 
-- [Link Surge](https://gabrielmaciel.surge.sh/)
+- [Link Vercel](https://projeto-react-apis-iota.vercel.app/)
