@@ -40,7 +40,7 @@
    
 # Linkedin
 
-[Linkedin]https://www.linkedin.com/in/gabrielmacieldev/
+[Linkedin](https://www.linkedin.com/in/gabrielmacieldev/)
 # Documentação
 
 [Documentação](https://github.com/labenuexercicios/projeto-react-apis#readme)
