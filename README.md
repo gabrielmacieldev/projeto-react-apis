@@ -2,7 +2,7 @@
 
 # Pokedex 
 
-# O projeto React e API´s proposto pela Labenu, possui 03 páginas: Home, Pokedex e Detalhes. O projeto faz uso de fonte de dados para sua elaboração a  Poke Api (https://pokeapi.co/), uma Api pública, muito usada para aplicações focadas em aprendizado de programação.
+O projeto React e API´s proposto pela Labenu, possui 03 páginas: Home, Pokedex e Detalhes. O projeto faz uso de fonte de dados para sua elaboração a  Poke Api (https://pokeapi.co/), uma Api pública, muito usada para aplicações focadas em aprendizado de programação.
 
 # Aplicações utilizadas no projeto:
         Integração de APIS
