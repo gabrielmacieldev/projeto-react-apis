@@ -38,8 +38,8 @@ export const Image = styled.img`
       right: 50vw;
 }
     @media (max-width: 415px) {
-      width: 110px;
-      height: 50px;
+      width: 130px;
+      height: 65px;
       top: 50px;
       right: 50vw;
 }
@@ -81,7 +81,7 @@ export const Button = styled.button`
       margin-right: 30vw;
 
       img {
-        width: 110px;
+        width: 130px;
       }
 }
  `

@@ -90,7 +90,7 @@ export const Container = styled.div`
       font-style: normal;
       cursor: pointer;
       font-weight: 700;
-      margin-top: 12.5rem;
+      margin-top: 13.5rem;
       position: absolute;
       margin-right: 4rem;
 
@@ -99,6 +99,9 @@ export const Container = styled.div`
 }
       @media (max-width: 430px) {
         margin-top: 7rem;
+}
+      @media (max-width: 390px) {
+        margin-top: 9rem;
 }
     }
 
