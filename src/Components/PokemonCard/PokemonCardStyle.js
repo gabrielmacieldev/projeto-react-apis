@@ -98,7 +98,7 @@ export const Container = styled.div`
         margin-top: 9rem;
 }
       @media (max-width: 430px) {
-        margin-top: 7rem;
+        margin-top: 6.5rem;
 }
       @media (max-width: 390px) {
         margin-top: 9rem;

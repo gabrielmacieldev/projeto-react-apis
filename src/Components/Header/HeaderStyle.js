@@ -44,6 +44,39 @@ export const Image = styled.img`
       right: 50vw;
 }
 `
+export const Image1 = styled.img`
+    position: absolute;
+    width: 307px;
+    height: 115px;
+    margin-right: 5vw;
+    top:25px;
+
+    @media (max-width: 1296px) {
+      width: 250px;
+      height: 70px;
+      top: 40px;
+      right: 30vw;
+}
+
+    @media (max-width: 725px) {
+      width: 200px;
+      height: 70px;
+      top: 40px;
+      right: 20vw;
+}
+    @media (max-width: 548px) {
+      width: 140px;
+      height: 50px;
+      top: 50px;
+      right: 10vw;
+}
+    @media (max-width: 415px) {
+      width: 120px;
+      height: 55px;
+      top: 50px;
+      right: 10vw;
+}
+`
 export const Button = styled.button`
  border-radius: 10px;
  border: none;
@@ -85,9 +118,11 @@ export const Button = styled.button`
       }
 }
  `
-export const Button2 = styled.div `
+export const Button2 = styled.button`
 position: absolute;
 width: 210px;
+border: none;
+background: transparent;
 height: 36px;
 left: 100px;
 top: 62px;
@@ -99,6 +134,30 @@ line-height: 36px;
 text-decoration-line: underline;
 color: #1A1A1A;
 cursor: pointer;
+
+@media (max-width: 1296px) {
+
+left: 0vw;
+
+}
+
+@media (max-width: 725px) {
+top: 50px;
+right: 50vw;
+
+}
+@media (max-width: 548px) {
+top: 60px;
+margin-right: 10vw;
+font-size: 20px;
+
+}
+@media (max-width: 415px) {
+  font-size: 20px;
+  top: 60px;
+  left: 0vw;
+
+}
 `
 export const Button3 = styled.div`
 display: flex;

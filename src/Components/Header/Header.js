@@ -4,7 +4,7 @@ import { goToHomePage, goToPokedex } from '../../router/coordinates'
 import Pokemon from "../../assets/images/pokemon.png"
 import Pokedex from '../../assets/images/pokedex.svg'
 import Excluir from "../../assets/images/excluir.svg"
-import { Container, Image, Button, Button2, Button3 } from './HeaderStyle'
+import { Container, Image, Button, Button2, Button3, Image1 } from './HeaderStyle'
 import { GlobalContext } from '../../contexts/GlobalContext'
 import axios from 'axios'
 import { BASE_URL } from '../../constants/url'
@@ -50,7 +50,7 @@ const Header = () => {
         return (
           <>
             <Button2 onClick={() => goToHomePage(navigate)}>Todos Pokémons</Button2>
-            <Image src={Pokemon}></Image>
+            <Image1 src={Pokemon}></Image1>
           </>
 
       //se tem na pokedex o botão será excluir se não tem
